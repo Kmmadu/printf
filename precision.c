@@ -2,6 +2,7 @@
 
 /**
  * precision - Calculates the precision for printing
+ * did well
  * @list: list of arguments.
  * Return: Precision.
  */
