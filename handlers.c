@@ -3,7 +3,7 @@
 /**
  * handle - Prints a string
  * @size: Size specifier
- *
+ * did it well
  * Return: Number of chars printed.
  */
 int handle_write_char(char c, char buffer[],
