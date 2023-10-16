@@ -56,7 +56,6 @@ return (write(1, str, length));
 }
 
 /**
-
  * print_percent - Prints a percent sign
  * Return: Number of chars printed
  */
@@ -74,7 +73,6 @@ return (write(1, "%%", 1));
 }
 
 /**
-
  * print_int - Print int
  * Return: Number of chars printed
  */
